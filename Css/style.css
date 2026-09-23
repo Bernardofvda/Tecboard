@@ -78,7 +78,7 @@ header img {
     display: block;
     margin: 75px 0 0 360px;
 }
-
+/*configs para tablet*/
 @media(max-width: 768px){
     header img {
         margin:65px 0 0 60px;
@@ -88,7 +88,7 @@ header img {
         width: 648px;
     }
 }
-/*configs para tablet e celular*/
+/*configs para celular*/
 @media(max-width: 375px){
     section img {
         margin: 32px 0 0 16px;
